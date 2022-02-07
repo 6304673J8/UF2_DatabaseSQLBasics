@@ -1,5 +1,5 @@
 # Notes & scripts DATABASE module-UF2
-SQL Workplace
+SQL First Steps
 
 ## OR, AND e IN
 Examples:
